@@ -1,5 +1,5 @@
 # Logistic-Regression
-
+Predicting whether a given customer will churn or not.
 # Code and resources
 Python version: 3.9.9
 Packages: pandas, numpy, sklearn, matplotlib
